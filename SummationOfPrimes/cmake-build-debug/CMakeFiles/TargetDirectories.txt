@@ -1,0 +1,3 @@
+C:/Users/pyuku/CLionProjects/SummationOfPrimes/cmake-build-debug/CMakeFiles/SummationOfPrimes.dir
+C:/Users/pyuku/CLionProjects/SummationOfPrimes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pyuku/CLionProjects/SummationOfPrimes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
