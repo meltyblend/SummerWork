@@ -1,0 +1,3 @@
+C:/Users/pyuku/Desktop/All Of my C++ Work/SumSquareDiff/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-05kaxi/CMakeFiles/cmTC_ff26a.dir
+C:/Users/pyuku/Desktop/All Of my C++ Work/SumSquareDiff/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-05kaxi/CMakeFiles/edit_cache.dir
+C:/Users/pyuku/Desktop/All Of my C++ Work/SumSquareDiff/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-05kaxi/CMakeFiles/rebuild_cache.dir
